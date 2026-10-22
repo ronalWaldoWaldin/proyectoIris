@@ -1,4 +1,13 @@
 """
+Script de entrenamiento para clasificación multiclase.
+
+Miembros del equipo:
+RONAL MORA #696641
+ANDRES LUNA DE LA GARZA #608994
+DAVID RIOJAS MARTINEZ #614207
+VICTOR MANUEL AGUILERA TAMEZ #652588
+ANDRES SIQUEIROS CUELLAR #609026
+
 Usage:
     main.py train
     main.py compare
