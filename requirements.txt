@@ -1,0 +1,6 @@
+tensorflow
+scikit-learn
+optuna
+matplotlib
+pandas
+docopt
